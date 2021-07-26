@@ -1,0 +1,2 @@
+ChicagoCrimeDataset.kinesis_region='ap-south-1'
+ChicagoCrimeDataset.kinesis_stream_name="mageswaran-kinesis-poc2"

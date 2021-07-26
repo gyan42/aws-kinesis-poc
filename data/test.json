@@ -1,0 +1,36 @@
+{
+  "records": [
+    {
+      "recordId": "49618152160419714233415832428636038128496498732234178578",
+      "kinesisStreamRecordMetadata": {
+        "shardId": "shardId-000000000001",
+        "partitionKey": "8e73b028-9d86-4397-ad6f-68da4b6229c0",
+        "approximateArrivalTimestamp": 1620728152012,
+        "sequenceNumber": "49618152160419714233415832428636038128496498732234178578"
+      },
+      "data": "data1"
+    },
+    {
+      "recordId": "49618152160419714233415832423308302041454786315301158930",
+      "kinesisStreamRecordMetadata": {
+        "shardId": "shardId-000000000001",
+        "partitionKey": "8e73b028-9d86-4397-ad6f-68da4b6229c0",
+        "approximateArrivalTimestamp": 1620727546227,
+        "sequenceNumber": "49618152160419714233415832423308302041454786315301158930"
+      },
+      "data": "data2"
+    },
+    {
+      "recordId": "49618152160419714233415832424561958116395179515618263058",
+      "kinesisStreamRecordMetadata": {
+        "shardId": "shardId-000000000001",
+        "partitionKey": "abc4febe-2218-40b4-8d34-311b6d98989f",
+        "approximateArrivalTimestamp": 1620727877721,
+        "sequenceNumber": "49618152160419714233415832424561958116395179515618263058"
+      },
+      "data": "data3"
+    }],
+  "streamArn": "arn:aws:kinesis:ap-south-1:014521883827:stream/mageswaran-kinesis-poc",
+  "invocationId": "b5e4bb80-d1a4-40ac-831e-bbc2260d474e",
+  "applicationArn": "arn:aws:kinesisanalytics:ap-south-1:123456789012:application/example-application"
+}

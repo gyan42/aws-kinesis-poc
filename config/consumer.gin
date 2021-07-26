@@ -1,0 +1,2 @@
+EchoConsumer.kinesis_region='ap-south-1'
+EchoConsumer.kinesis_stream_name="mageswaran-kinesis-poc2"
